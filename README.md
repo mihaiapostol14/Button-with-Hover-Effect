@@ -22,4 +22,4 @@ To use this button, simply copy the provided CSS into your project and apply the
 To clone the repository and use this project locally, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/your-username/gradient-button.git
+git clone https://github.com/mihaiapostol14/Button-with-Hover-Effect.git
